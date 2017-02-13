@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    banzai (0.1.2)
+    mini_portile2 (2.1.0)
+    nokogiri (1.7.0.1)
+      mini_portile2 (~> 2.1.0)
+    redcarpet (3.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  banzai
+  nokogiri
+  redcarpet
+
+BUNDLED WITH
+   1.13.7
